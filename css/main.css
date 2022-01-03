@@ -8,11 +8,11 @@ body {
     background-color: #121116;
 }
 
-.logo {
+.footer__logo {
     margin-top: 120px;
 }
 
-.title {
+.footer__title {
     color: #afa1a6;
     font-size: 20px;
     font-family: 'Open Sans', sans-serif;
@@ -35,7 +35,7 @@ hr {
     align-items: center;
 }
 
-.social li {
+.social__list-li {
     display: inline-block;
 }
 
@@ -47,13 +47,13 @@ hr {
     margin: 0 auto;
 }
 
-.list {
+.social__list {
     display: flex;
     justify-content: space-between;
     list-style: none;
 }
 
-.copyright {
+.footer__copyright {
     color: #afa1a6;
     margin-top: 30px;
     font-size: 15px;
